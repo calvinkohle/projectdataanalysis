@@ -1,0 +1,11 @@
+model,topic_number,top_words
+LSA,1,"the, and, to, we, it, of, was, in, you, for"
+LSA,2,"we, was, were, had, our, went, my, did, loved, us"
+LSA,3,"the, park, of, parade, show, fireworks, is, rides, are, castle"
+LSA,4,"you, we, get, to, fast, pass, your, if, at, were"
+LSA,5,"and, great, for, kids, place, rides, fun, time, all, amazing"
+LDA,1,"we, the, and, to, was, it, were, our, for, had"
+LDA,2,"the, and, to, we, of, for, in, was, at, you"
+LDA,3,"the, and, was, of, it, is, to, for, rides, in"
+LDA,4,"the, you, to, and, is, it, for, of, are, in"
+LDA,5,"the, to, and, in, of, it, was, disney, that, is"
