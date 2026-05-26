@@ -1,0 +1,11 @@
+model,topic_number,top_words
+LSA_optimized,1,"park, disney, rides, disneyland, day, time, great, ride, kids, just"
+LSA_optimized,2,"place, disneyland, love, disney, hong, kong, visit, fun, great, earth"
+LSA_optimized,3,"disney, park, world, parks, paris, florida, hong, orlando, kong, smaller"
+LSA_optimized,4,"disneyland, ride, california, pass, adventure, mountain, fast, lines, line, love"
+LSA_optimized,5,"kong, hong, day, fun, kids, rides, great, disneyland, enjoyed, parade"
+LDA_optimized,1,"disneyland, park, time, rides, ride, disney, day, california, lines, mountain"
+LDA_optimized,2,"disneyland, day, rides, kids, place, park, disney, fun, visit, time"
+LDA_optimized,3,"rides, park, ride, day, time, queue, food, queues, fast, long"
+LDA_optimized,4,"disney, park, disneyland, rides, staff, paris, just, time, great, characters"
+LDA_optimized,5,"park, day, time, hotel, food, disney, disneyland, just, days, tickets"
